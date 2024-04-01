@@ -1,6 +1,6 @@
 # FULL_SUBTRACTOR
 ## AIM:
-To simulate and synthesis Half adder using Xilinx ISE.
+To simulate and synthesis Full subractor using Xilinx ISE.
 ## APPARATUS REQUIRED: 
 Xilinx 14.7 Spartan6 FPGA
 ## PROCEDURE: 
